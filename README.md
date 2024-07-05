@@ -4,7 +4,7 @@ This repository is about an end to end implementation of deep learning cotton pl
 ## Dataset
 The dataset is downloaded from ipcloud and has a total size of 4.2 GB. The dataset contains approximately 35,000 train images and 12,000 test images, organized into two folders. Each folder is divided into four classes: diseased cotton leaf (Fusarium Wilt), diseased cotton leaf (Leaf Curl Disease), fresh cotton leaf (Healthy Leaf), and diseased cotton leaf (Bacterial Blight Disease). Each image is in JPG format with a size of 256x256 pixels.
 
-<img src="Chttps://github.com/ShreeHarinesh1494/eveningdemo/blob/main/dataset.png" width=50% height=50%>
+<img src="https://github.com/ShreeHarinesh1494/eveningdemo/blob/main/dataset.png" width=50% height=50%>
 
 ## Azure API
 The Azure API is utilized to filter whether the image is a cotton leaf or not. If the image is identified as a cotton leaf, it is then processed by the model for classification into one of the four categories: Fusarium Wilt, Leaf Curl Disease, Healthy Leaf, or Bacterial Blight Disease.
